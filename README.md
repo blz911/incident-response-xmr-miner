@@ -1,7 +1,6 @@
 # 🛡️ Incident Report: XMR Cryptomining Trojan — Detection, Analysis & Remediation
 
 > **Type:** Real-World Malware Incident Response  
-> **Date:** June 7–8, 2026  
 > **Platform:** Windows 11 (ASUS Vivobook)  
 > **Malware Family:** `Trojan.MalPack.Generic` (XMR Miner)  
 > **Status:** ✅ Fully Remediated
